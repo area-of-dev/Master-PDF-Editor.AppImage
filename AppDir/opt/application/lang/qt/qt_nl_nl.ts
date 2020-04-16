@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="nl">
+<context>
+    <name>QPlatformTheme</name>
+    <message>
+        <source>OK</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Yes to &amp;All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>N&amp;o to All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Abort</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Restore Defaults</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>&amp;Undo</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QWidgetTextControl</name>
+    <message>
+        <source>&amp;Undo</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Copy &amp;Link Location</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QAbstractSpinBox</name>
+    <message>
+        <source>&amp;Select All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Step up</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Step &amp;down</source>
+        <translation></translation>
+    </message>
+</context>
+</TS>
