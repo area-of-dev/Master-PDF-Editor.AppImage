@@ -1,4 +1,14 @@
-#! /bin/bash
+#!/bin/sh
+
 set -e
+
+libpath=${APPDIR}/opt/application
+dirname=${APPDIR}/opt/application
+
+LD_LIBRARY_PATH=$libpath/lib:$libpath/platforms:$libpath/printsupport:$libpath/iconengines:$libpath/imageformats:$libpath/platformthemes:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH
+
+
 cd ${HOME}
+
 exec ${APPDIR}/opt/application/masterpdfeditor5 $@
