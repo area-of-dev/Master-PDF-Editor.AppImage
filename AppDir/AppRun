@@ -11,4 +11,4 @@ export LD_LIBRARY_PATH
 
 cd ${HOME}
 
-exec ${APPDIR}/opt/application/masterpdfeditor5 $@
+exec ${APPDIR}/opt/application/masterpdfeditor5.sh $@
