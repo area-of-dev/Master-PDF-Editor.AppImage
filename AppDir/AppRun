@@ -9,6 +9,6 @@ LD_LIBRARY_PATH=$libpath/lib:$libpath/platforms:$libpath/printsupport:$libpath/i
 export LD_LIBRARY_PATH
 
 
-cd ${HOME}
+cd ${OWD}
 
-exec ${APPDIR}/opt/application/masterpdfeditor5.sh $@
+exec ${APPDIR}/opt/application/masterpdfeditor5.sh "$@"
