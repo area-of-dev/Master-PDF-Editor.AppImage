@@ -1,4 +1,4 @@
-SOURCE="https://code-industry.net/public/master-pdf-editor-5.4.38-qt5-all.amd64.tar.gz"
+SOURCE="https://code-industry.net/public/master-pdf-editor-5.7.60-qt5.x86_64.tar.gz"
 DESTINATION="build.tar.gz"
 OUTPUT="Master-PDF-Editor.AppImage"
 
