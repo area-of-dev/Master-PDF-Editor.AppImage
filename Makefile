@@ -11,7 +11,7 @@ all:
 	rm -rf AppDir/opt
 	
 	mkdir --parents AppDir/opt/application
-	cp -r master-pdf-editor-5/* AppDir/opt/application
+	cp -r master-pdf-editor*/* AppDir/opt/application
 
 	chmod +x AppDir/AppRun
 
