@@ -1,0 +1,1 @@
+# Master-PDF-Editor.AppImage
